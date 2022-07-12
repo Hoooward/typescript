@@ -1,5 +1,7 @@
-const fu = (name: string) => {
+const hello = (name: string) => {
 	return `Hello ${name}`;
 }
 
-fu('World');
+hello('World');
+
+export {}
